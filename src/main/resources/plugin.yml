@@ -1,0 +1,7 @@
+name: InventoryViewer
+version: ${project.version}
+main: com.demeng7215.inventoryviewer.InventoryViewer
+api-version: 1.13
+author: Demeng7215
+description: Allows players to view each other's inventories.
+website: https://demeng7215.com

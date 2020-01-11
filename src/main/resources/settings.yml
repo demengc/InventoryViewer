@@ -1,0 +1,18 @@
+# Official configuration file for InventoryViewer.
+
+prefix: "&8[&bInventoryViewer&8] &r"
+cooldown: 10
+no-perms: "&fYou do not have permission to execute that command."
+player-offline: "&fYou cannot give an item to an offline player."
+successfully-given: "&fYou gave &7%amount% &fInventory Viewer Wands to &7%target%&f."
+on-cooldown: "&fPlease wait &7%seconds% &fseconds before using your wand again."
+item:
+  material: "BLAZE_ROD"
+  display-name: "&b&lInventory Viewer Wand"
+  lore:
+    - "&7Right-click a player to view their inventory!"
+    - "&7Only one use, choose wisely!"
+  enchants:
+    DURABILITY: 1
+  hide-enchants: true
+
